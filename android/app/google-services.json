@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544971231579",
+    "project_id": "fb-test-be8d3",
+    "storage_bucket": "fb-test-be8d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544971231579:android:b0b3434f2b0ea5a9368a7e",
+        "android_client_info": {
+          "package_name": "com.vp.fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgvNVS7fPxvZqq0leJW_FRinBzFkR8cG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
